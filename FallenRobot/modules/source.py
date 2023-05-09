@@ -17,7 +17,7 @@ async def repo(_, message: Message):
 
 ɪ ᴀᴍ [{BOT_NAME}](https://t.me/{BOT_USERNAME})**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ :** 𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [˹Sʜɪᴠᴀᴍ ꭙ Jᴀɪsᴡᴀʟ˼❤️](https://t.me/Shivam_jaiswal001)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
@@ -29,7 +29,7 @@ async def repo(_, message: Message):
                     InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", user_id=OWNER_ID),
                     InlineKeyboardButton(
                         "sᴏᴜʀᴄᴇ",
-                        url="https://github.com/AnonymousX1025/FallenRobot",
+                        url="https://te.legra.ph/file/d3cc723e62087d51b19f0.jpg",
                     ),
                 ]
             ]
