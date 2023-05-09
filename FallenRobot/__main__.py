@@ -430,13 +430,13 @@ def Source_about_callback(update: Update, context: CallbackContext):
             text=f"""
 *ʜᴇʏ,
  ᴛʜɪs ɪs {BOT_NAME},
-🙂 *Tʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ᴀɴᴅ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ 🔥*
+*🙂 Tʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ᴀɴᴅ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ 🔥*
 
-❤️ *Fᴏʀ ɢᴇᴛ ᴛʜɪs ʙᴏᴛ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ* [ᴅᴇᴠʟᴏᴘᴇʀ](https://t.me/Shivam_jaiswal001)
+*❤️ Fᴏʀ ɢᴇᴛ ᴛʜɪs ʙᴏᴛ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ* [ᴅᴇᴠʟᴏᴘᴇʀ](https://t.me/Shivam_jaiswal001)
 
-🥰 *Mʏ ғᴀᴛʜᴇʀ* :- [˹Sʜɪᴠᴀᴍ ꭙ Jᴀɪsᴡᴀʟ˼❤️](https://t.me/Shivam_jaiswal001)
-🔥 *Hᴇʟᴘᴇʀ ғʀɪᴇɴᴅ* :- [˹Ꭻᴏʜɴ ꭙ ᴄᴇɴᎪ˼❤️](https://t.me/John_cena0011)
-🥳 *Eᴀʀɴ Fʀᴇᴇ* :- [Eᴀʀɴ ᴍᴏɴᴇʏ](https://t.me/Earning_with_shivam_official).
+*🥰 Mʏ ғᴀᴛʜᴇʀ ᴛᴇʟᴇɢʀᴀᴍ* :- [˹Sʜɪᴠᴀᴍ ꭙ Jᴀɪsᴡᴀʟ˼❤️](https://t.me/Shivam_jaiswal001)
+*🔥 Hᴇʟᴘᴇʀ ғʀɪᴇɴᴅ* :- [˹Ꭻᴏʜɴ ꭙ ᴄᴇɴᎪ˼❤️](https://t.me/John_cena0011)
+*🥳 Eᴀʀɴ Fʀᴇᴇ ᴡɪᴛʜ ᴜs* :- [Eᴀʀɴ ᴍᴏɴᴇʏ](https://t.me/Earning_with_shivam_official).
 
 © 2022 - 2023 | [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
