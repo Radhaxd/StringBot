@@ -435,7 +435,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 ❤️ *Fᴏʀ ɢᴇᴛ ᴛʜɪs ʙᴏᴛ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ* [ᴅᴇᴠʟᴏᴘᴇʀ](https://t.me/Shivam_jaiswal001)
 
 🥰 *Mʏ ғᴀᴛʜᴇʀ* :- [˹Sʜɪᴠᴀᴍ ꭙ Jᴀɪsᴡᴀʟ˼❤️](https://t.me/Shivam_jaiswal001)
-🔥 Hᴇʟᴘᴇʀ ғʀɪᴇɴᴅ :- [˹Ꭻᴏʜɴ ꭙ ᴄᴇɴᎪ˼❤️](https://t.me/John_cena0011)
+🔥 *Hᴇʟᴘᴇʀ ғʀɪᴇɴᴅ* :- [˹Ꭻᴏʜɴ ꭙ ᴄᴇɴᎪ˼❤️](https://t.me/John_cena0011)
 🥳 *Eᴀʀɴ Fʀᴇᴇ* :- [Eᴀʀɴ ᴍᴏɴᴇʏ](https://t.me/Earning_with_shivam_official).
 
 © 2022 - 2023 | [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
