@@ -64,12 +64,12 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-# Copy Python Requirements to /root/FallenRobot
-RUN git clone https://github.com/AnonymousX1025/FallenRobot /root/FallenRobot
-WORKDIR /root/FallenRobot
+# Copy Python Requirements to /root/AngelRobot
+RUN git clone https://github.com/Shivam892483/AngelRobot /root/AngelRobot
+WORKDIR /root/AngelRobot
 
-#Copy config file to /root/FallenRobot/FallenRobot
-COPY ./FallenRobot/config.py ./FallenRobot/config.py* /root/FallenRobot/FallenRobot/
+#Copy config file to /root/AngelRobot/FallenRobot
+COPY ./FallenRobot/config.py ./FallenRobot/config.py* /root/AngelRobot/FallenRobot/
 
 ENV PATH="/home/bot/bin:$PATH"
 
