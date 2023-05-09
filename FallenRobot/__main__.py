@@ -432,11 +432,11 @@ def Source_about_callback(update: Update, context: CallbackContext):
  ᴛʜɪs ɪs {BOT_NAME},
 🙂 Tʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ᴀɴᴅ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ 🔥.*
 
-❤️ Fᴏʀ ɢᴇᴛ ᴛʜɪs ʙᴏᴛ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ* [ᴅᴇᴠʟᴏᴘᴇʀ](https://t.me/Shivam_jaiswal001)
+🎧 ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ʙᴏᴛ ᴏᴡɴᴇʀ ᴛᴏ ɢᴇᴛ ᴛʜɪs ʙᴏᴛ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 
 
-*🥰 Mʏ ғᴀᴛʜᴇʀ* :* [˹Sʜɪᴠᴀᴍ ꭙ Jᴀɪsᴡᴀʟ˼❤️](https://t.me/Shivam_jaiswal001)
-*🔥 Hᴇʟᴘᴇʀ ғʀɪᴇɴᴅ :* [˹Ꭻᴏʜɴ ꭙ ᴄᴇɴᎪ˼❤️](https://t.me/John_cena0011)
-*🥳 Eᴀʀɴ Fʀᴇᴇ :* [Eᴀʀɴ ᴍᴏɴᴇʏ](https://t.me/Earning_with_shivam_official).
+ ➺ *Mʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ/ᴏᴡɴᴇʀ :-* [˹Sʜɪᴠᴀᴍ ꭙ Jᴀɪsᴡᴀʟ˼❤️](https://t.me/Shivam_jaiswal001)
+ ➺ *ғʀɪᴇɴᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴄᴄᴏᴜɴᴛ :-*[˹Ꭻᴏʜɴ ꭙ ᴄᴇɴᎪ˼❤️](https://t.me/John_cena0011)
+ ➺ *Eᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ᴜs :-* [Cʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Earning_with_shivam_official) .
 
 {BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/Shivam892483/AngelRobot/blob/master/LICENSE).
 © 2022 - 2023 [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
