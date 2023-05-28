@@ -101,7 +101,7 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/Shivam892483)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Shivam892483/AngelRobot) </b>
+- <b>[Sʜɪᴠᴀᴍ Jᴀɪsᴡᴀʟ](https://github.com/Shivam892483)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Shivam892483/AngelRobot) </b>
 - <b>[ᴩᴀᴜʟ ʟᴀʀsᴇɴ](https://github.com/PaulSonOfLars)  ➻  [ᴛɢ ʙᴏᴛ](https://github.com/PaulSonOfLars/tgbot) </b>
 - <b>[ʜᴀᴍᴋᴇʀ ᴄᴀᴛ](https://github.com/TheHamkerCat)  ➻  [ᴡɪʟʟɪᴀᴍ ʙᴜᴛᴄʜᴇʀ](https://github.com/TheHamkerCat/WilliamButcherBot) </b>
  
