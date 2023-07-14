@@ -319,7 +319,7 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://t.me/FallenAssociation/7"
+                                "ʜᴇᴀʟᴛʜ", url="https://te.legra.ph/file/0d222f534bfc55b8036c6.jpg"
                             ),
                             InlineKeyboardButton(
                                 "ᴅɪꜱᴀꜱᴛᴇʀ", url="https://te.legra.ph/file/5909ec09cfc87f79852e3.jpg"
