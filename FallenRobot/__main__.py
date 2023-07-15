@@ -344,7 +344,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
         uptime = get_readable_time((time.time() - StartTime))
         query.message.edit_text(
             text=f"*❤️ ʜᴇʟʟᴏ , Wᴇʟᴄᴏᴍᴇ ᴛᴏ {BOT_NAME}*"
-            "\n*🙂 Tʜɪs ɪs ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ɪɴ ᴡʜɪᴄʜ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs ᴛʜᴀɴ ᴏᴛʜᴇʀs ʙᴏᴛ.*"
+            "\n*🥀 Tʜɪs ɪs ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ & ᴍᴜsɪᴄ ʙᴏᴛ ɪɴ ᴡʜɪᴄʜ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs ᴛʜᴀɴ ᴏᴛʜᴇʀs ʙᴏᴛ.*"
             "\n\n────────────────────"
             f"\n*➻ ᴜᴩᴛɪᴍᴇ »* {uptime}"
             f"\n*➻ ᴜsᴇʀs »* {sql.num_users()}"
